@@ -1,15 +1,11 @@
 import media
 import fresh_tomatoes
 
-
-import media
-import fresh_tomatoes
-
 # object toy story with supporting attribute
 toy_story = media.Movie("Toy Story", "Toy come to life", "http://" +
                         "upload.wikimedia.org/wikipedia/en/1/13" +
-                        "/Toy_Story.jpg", +
-                        "http://www.youtube.com/watch?v=vwyZH85NQC4")
+                        "/Toy_Story.jpg", "http://www.youtube."
+                        +"com/watch?v=vwyZH85NQC4")
 
 # object avatar with supporting attribute
 avatar = media.Movie("Avatar", "A marine that live in alien" +
